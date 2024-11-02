@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+env.bak/
+
+# Archivos de base de datos
+db.sqlite3
+
+# Archivos de configuración
+*.env
+
+# Archivos de caché
+*.log
+
+# Archivos de migración
+*.pyc
+migrations/__init__.py
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de administración
+media/
+staticfiles/
